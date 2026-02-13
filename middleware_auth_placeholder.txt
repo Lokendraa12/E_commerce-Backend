@@ -1,0 +1,1 @@
+The middleware file is simple; use the README or the provided server routes.
